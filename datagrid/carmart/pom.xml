@@ -26,7 +26,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <!-- JBoss dependency versions -->
-        <com.ocpsoft.prettyfaces.version>3.3.2</com.ocpsoft.prettyfaces.version>
+        <com.ocpsoft.prettyfaces.version>3.3.3</com.ocpsoft.prettyfaces.version>
         <version.jboss.weld>1.1.8.Final</version.jboss.weld>
         <version.com.sun.faces.jsf.impl>2.0.2</version.com.sun.faces.jsf.impl>
 
